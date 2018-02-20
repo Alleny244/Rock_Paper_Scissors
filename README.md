@@ -27,4 +27,4 @@ To run this web app, you will need to be able to require:
 2. Open rock_paper_scissors_app
 
 ### Author
-**Fraser Brown** - Original author
+**Fraser Brown & Anna Lanigan** - Original authors
